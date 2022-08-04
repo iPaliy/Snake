@@ -24,10 +24,12 @@ increment in file `field.py`, parameter: `self.fps_increment`.
 ## Screenshots
 
 ![Snake Game](https://github.com/iPaliy/Snake/blob/main/images/GameSnake.png)
-*Written using PyCharm*
+
+Start of game
 
 ![Game over](https://github.com/iPaliy/Snake/blob/main/images/GameOverSnake.png)
-*Game Over*
+
+Game Over
 
 
 
