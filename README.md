@@ -23,7 +23,7 @@ increment in file `field.py`, parameter: `self.fps_increment`.
 
 ## Screenshots
 
-![Snake Game](https://github.com/iPaliy/Snake/blob/main/images/GameSnake.png)
+![Snake Game](https://github.com/iPaliy/Snake/blob/main/images/GameSnake1.png)
 
 Start of game
 
